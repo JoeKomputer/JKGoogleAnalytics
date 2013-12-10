@@ -1,0 +1,9 @@
+Light Weight Google Analytics for web apps that can't always be online. 
+
+*Have not tested with live project yet*
+Uses jQuery
+Parses Events with JSON in localstorage(may only work in more modern browsers).
+
+Add the JS file to a project along with jQuery(if not already included).
+
+TODO: Figure out how to track time when user is offline.
